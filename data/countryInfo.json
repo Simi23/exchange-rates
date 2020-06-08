@@ -1,0 +1,398 @@
+{
+    "CAD": [
+        {
+            "flagUrl": "https://restcountries.eu/data/can.svg",
+            "countryName": "Canada"
+        }
+    ],
+    "HKD": [
+        {
+            "flagUrl": "https://restcountries.eu/data/hkg.svg",
+            "countryName": "Hong Kong"
+        }
+    ],
+    "ISK": [
+        {
+            "flagUrl": "https://restcountries.eu/data/isl.svg",
+            "countryName": "Iceland"
+        }
+    ],
+    "PHP": [
+        {
+            "flagUrl": "https://restcountries.eu/data/phl.svg",
+            "countryName": "Philippines"
+        }
+    ],
+    "DKK": [
+        {
+            "flagUrl": "https://restcountries.eu/data/dnk.svg",
+            "countryName": "Denmark"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/fro.svg",
+            "countryName": "Faroe Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/grl.svg",
+            "countryName": "Greenland"
+        }
+    ],
+    "HUF": [
+        {
+            "flagUrl": "https://restcountries.eu/data/hun.svg",
+            "countryName": "Hungary"
+        }
+    ],
+    "CZK": [
+        {
+            "flagUrl": "https://restcountries.eu/data/cze.svg",
+            "countryName": "Czech Republic"
+        }
+    ],
+    "AUD": [
+        {
+            "flagUrl": "https://restcountries.eu/data/ata.svg",
+            "countryName": "Antarctica"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/aus.svg",
+            "countryName": "Australia"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/cxr.svg",
+            "countryName": "Christmas Island"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/cck.svg",
+            "countryName": "Cocos (Keeling) Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/hmd.svg",
+            "countryName": "Heard Island and McDonald Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/kir.svg",
+            "countryName": "Kiribati"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/nru.svg",
+            "countryName": "Nauru"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/nfk.svg",
+            "countryName": "Norfolk Island"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/tuv.svg",
+            "countryName": "Tuvalu"
+        }
+    ],
+    "RON": [
+        {
+            "flagUrl": "https://restcountries.eu/data/rou.svg",
+            "countryName": "Romania"
+        }
+    ],
+    "SEK": [
+        {
+            "flagUrl": "https://restcountries.eu/data/swe.svg",
+            "countryName": "Sweden"
+        }
+    ],
+    "IDR": [
+        {
+            "flagUrl": "https://restcountries.eu/data/idn.svg",
+            "countryName": "Indonesia"
+        }
+    ],
+    "INR": [
+        {
+            "flagUrl": "https://restcountries.eu/data/btn.svg",
+            "countryName": "Bhutan"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/ind.svg",
+            "countryName": "India"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/zwe.svg",
+            "countryName": "Zimbabwe"
+        }
+    ],
+    "BRL": [
+        {
+            "flagUrl": "https://restcountries.eu/data/bra.svg",
+            "countryName": "Brazil"
+        }
+    ],
+    "RUB": [
+        {
+            "flagUrl": "https://restcountries.eu/data/rus.svg",
+            "countryName": "Russian Federation"
+        }
+    ],
+    "HRK": [
+        {
+            "flagUrl": "https://restcountries.eu/data/hrv.svg",
+            "countryName": "Croatia"
+        }
+    ],
+    "JPY": [
+        {
+            "flagUrl": "https://restcountries.eu/data/jpn.svg",
+            "countryName": "Japan"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/zwe.svg",
+            "countryName": "Zimbabwe"
+        }
+    ],
+    "THB": [
+        {
+            "flagUrl": "https://restcountries.eu/data/tha.svg",
+            "countryName": "Thailand"
+        }
+    ],
+    "CHF": [
+        {
+            "flagUrl": "https://restcountries.eu/data/lie.svg",
+            "countryName": "Liechtenstein"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/che.svg",
+            "countryName": "Switzerland"
+        }
+    ],
+    "SGD": [
+        {
+            "flagUrl": "https://restcountries.eu/data/brn.svg",
+            "countryName": "Brunei Darussalam"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/sgp.svg",
+            "countryName": "Singapore"
+        }
+    ],
+    "PLN": [
+        {
+            "flagUrl": "https://restcountries.eu/data/pol.svg",
+            "countryName": "Poland"
+        }
+    ],
+    "BGN": [
+        {
+            "flagUrl": "https://restcountries.eu/data/bgr.svg",
+            "countryName": "Bulgaria"
+        }
+    ],
+    "TRY": [
+        {
+            "flagUrl": "https://restcountries.eu/data/tur.svg",
+            "countryName": "Turkey"
+        }
+    ],
+    "CNY": [
+        {
+            "flagUrl": "https://restcountries.eu/data/chn.svg",
+            "countryName": "China"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/zwe.svg",
+            "countryName": "Zimbabwe"
+        }
+    ],
+    "NOK": [
+        {
+            "flagUrl": "https://restcountries.eu/data/bvt.svg",
+            "countryName": "Bouvet Island"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/nor.svg",
+            "countryName": "Norway"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/sjm.svg",
+            "countryName": "Svalbard and Jan Mayen"
+        }
+    ],
+    "NZD": [
+        {
+            "flagUrl": "https://restcountries.eu/data/cok.svg",
+            "countryName": "Cook Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/nzl.svg",
+            "countryName": "New Zealand"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/niu.svg",
+            "countryName": "Niue"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/pcn.svg",
+            "countryName": "Pitcairn"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/tkl.svg",
+            "countryName": "Tokelau"
+        }
+    ],
+    "ZAR": [
+        {
+            "flagUrl": "https://restcountries.eu/data/lso.svg",
+            "countryName": "Lesotho"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/nam.svg",
+            "countryName": "Namibia"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/zaf.svg",
+            "countryName": "South Africa"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/zwe.svg",
+            "countryName": "Zimbabwe"
+        }
+    ],
+    "USD": [
+        {
+            "flagUrl": "https://restcountries.eu/data/asm.svg",
+            "countryName": "American Samoa"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/bes.svg",
+            "countryName": "Bonaire, Sint Eustatius and Saba"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/iot.svg",
+            "countryName": "British Indian Ocean Territory"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/umi.svg",
+            "countryName": "United States Minor Outlying Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/vgb.svg",
+            "countryName": "Virgin Islands (British)"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/vir.svg",
+            "countryName": "Virgin Islands (U.S.)"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/khm.svg",
+            "countryName": "Cambodia"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/ecu.svg",
+            "countryName": "Ecuador"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/slv.svg",
+            "countryName": "El Salvador"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/gum.svg",
+            "countryName": "Guam"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/mhl.svg",
+            "countryName": "Marshall Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/fsm.svg",
+            "countryName": "Micronesia (Federated States of)"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/mnp.svg",
+            "countryName": "Northern Mariana Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/plw.svg",
+            "countryName": "Palau"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/pan.svg",
+            "countryName": "Panama"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/pri.svg",
+            "countryName": "Puerto Rico"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/tls.svg",
+            "countryName": "Timor-Leste"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/tca.svg",
+            "countryName": "Turks and Caicos Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/usa.svg",
+            "countryName": "United States of America"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/zwe.svg",
+            "countryName": "Zimbabwe"
+        }
+    ],
+    "MXN": [
+        {
+            "flagUrl": "https://restcountries.eu/data/mex.svg",
+            "countryName": "Mexico"
+        }
+    ],
+    "ILS": [
+        {
+            "flagUrl": "https://restcountries.eu/data/isr.svg",
+            "countryName": "Israel"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/pse.svg",
+            "countryName": "Palestine, State of"
+        }
+    ],
+    "GBP": [
+        {
+            "flagUrl": "https://restcountries.eu/data/ata.svg",
+            "countryName": "Antarctica"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/ggy.svg",
+            "countryName": "Guernsey"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/imn.svg",
+            "countryName": "Isle of Man"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/jey.svg",
+            "countryName": "Jersey"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/sgs.svg",
+            "countryName": "South Georgia and the South Sandwich Islands"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/gbr.svg",
+            "countryName": "United Kingdom of Great Britain and Northern Ireland"
+        },
+        {
+            "flagUrl": "https://restcountries.eu/data/zwe.svg",
+            "countryName": "Zimbabwe"
+        }
+    ],
+    "KRW": [
+        {
+            "flagUrl": "https://restcountries.eu/data/kor.svg",
+            "countryName": "Korea (Republic of)"
+        }
+    ],
+    "MYR": [
+        {
+            "flagUrl": "https://restcountries.eu/data/mys.svg",
+            "countryName": "Malaysia"
+        }
+    ]
+}

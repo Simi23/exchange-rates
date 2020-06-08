@@ -1,0 +1,16 @@
+{
+  "name": "exchange-rates",
+  "version": "1.0.0",
+  "description": "A web app which collects exchange rate data from an API and displays it to the user.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "prod": "node index.js"
+  },
+  "author": "Simon Tamás",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}

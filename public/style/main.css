@@ -1,0 +1,146 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans';
+  padding: 0;
+  margin: 0;
+  background-color: #caffc5;
+}
+
+header {
+  background: linear-gradient(270deg, rgba(81, 139, 74, 0.43) 0%, #518B4A 960px), url("/img/money.jpg");
+  background-repeat: no-repeat;
+  background-position: top right;
+  margin: 0;
+  padding: 1.2rem;
+  padding-bottom: 2rem;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+h2 {
+  margin: 2rem 0 .75rem 0;
+}
+
+h4 {
+  margin-top: .25rem;
+}
+
+h5 {
+  margin: 0;
+}
+
+div#currencies-area {
+  margin: 2rem auto;
+  width: 800px;
+  max-width: 90vw;
+}
+
+table {
+  background-color: #fff;
+  border: 2px solid #518b4a;
+  margin: 0 auto;
+}
+
+table thead {
+  background-color: #bbb;
+  font-weight: 800;
+}
+
+table tr:nth-child(odd) td {
+  background-color: #ddd;
+}
+
+table tr:nth-child(even) td {
+  background-color: #eee;
+}
+
+table th {
+  padding: 1rem;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+table th span {
+  font-size: 1rem;
+}
+
+table th span.base {
+  font-size: .75rem;
+}
+
+table th span.title::before {
+  content: '\00a0';
+}
+
+table th span.title::after {
+  content: '\00a0\00a0';
+}
+
+table th.sortasc span.title::before,
+table th.sortdesc span.title::before {
+  content: '';
+}
+
+table th.sortasc span.title::after {
+  content: ' ↑';
+}
+
+table th.sortdesc span.title::after {
+  content: ' ↓';
+}
+
+table td {
+  padding: .5rem;
+}
+
+footer {
+  color: white;
+  background-color: #518b4a;
+  padding: .25rem;
+}
+
+footer a {
+  color: #ddd;
+  text-decoration: none;
+}
+
+.mb-2 {
+  margin-bottom: 12px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  div#currencies-area {
+    margin: 2rem 0;
+    width: 100vw;
+    max-width: 100vw;
+  }
+  table {
+    border: 0;
+    border-top: 2px solid #518b4a;
+    border-bottom: 2px solid #518b4a;
+  }
+}
+
+@media (max-width: 425px) {
+  table {
+    width: 100%;
+  }
+  table tr td:first-child,
+  table tr th:first-child {
+    display: none;
+  }
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,42 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Exchanger</title>
+    <link rel="stylesheet" href="/style/main.css">
+</head>
+
+<body>
+    <header>
+        <h1>Currency Exchanger</h1>
+        <h4>Exchange rates updated daily.</h4>
+    </header>
+    
+    <div id="currencies-area">
+        <table>
+            <thead>
+                <tr>
+                    <th data-sort-name="country"><span class="title">Countries</span></th>
+                    <th data-sort-name="curr-code"><span class="title">Currency code</span></th>
+                    <th data-sort-name="conv-rate"><span class="title">Conversion rate</span><br><span class="base">Base: EUR</span></th>
+                </tr>
+            </thead>
+            <tbody id="currency-table">
+                <!-- Populated by JS -->
+            </tbody>
+        </table>
+    </div>
+    <footer>
+        Demo site by 
+        <a href="https://github.com/Simi23">Simon Tamás</a>.<br>
+        Data provided by
+        <a href="https://exchangeratesapi.io/">exchangeratesapi.io</a> 
+        and 
+        <a href="https://restcountries.eu/">restcountries.eu</a>.
+    </footer>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
